@@ -1,8 +1,9 @@
 # ----------- CONFIGURABLE START -----------
 title:            "Scribble"
 description:      "Such theme, very cool."
-url:              http://scribble.muan.co # Site url, without a slash at the end.
-signoff:          "muan" # Your name
+url:              https://lpc-dm.github.io/ # Site url, without a slash at the end.
+baseurl: ""
+signoff:          "mcremone" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
 share:            false # Turn on twitter and facebook share buttons
@@ -21,6 +22,9 @@ defaults:
   - values:
       layout: "default"
 theme: jekyll-theme-slate
+
+# ------------ BUILD SETTINGS ------------
+markdown: kramdown
 
 # ------------ CONFIGURABLE DEFAULTS ------------
 
