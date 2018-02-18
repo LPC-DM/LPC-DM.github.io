@@ -1,13 +1,20 @@
 ---
 ---
 
-<ul class="list pa0">
-  {% for post in site.posts %}
-  <li class="mv2">
-    <a href="{{ site.url }}{{ post.url }}" class="db pv1 link blue hover-mid-gray">
-      <time class="fr silver ttu">{{ post.date | date_to_string }} </time>
-      {{ post.title }}
-    </a>
-  </li>
-  {% endfor %}
-</ul>
+<div class="mb4">
+
+  <h1 class="f3 mt0 lh-title cb" align="center">
+    Welcome to the LPC-DM Analysis Group Website!
+  </h1>
+
+  </div>
+
+  <div class="markdown-body">
+    <p>The LPC-DM Analysis Group based at the Fermilab LHC Physics Center (LPC) analyzes data collected by the CMS experiment at the CERN LHC to search for Dark Matter.</p>
+
+    <p>Find us on <a href="https://twiki.cern.ch/twiki/bin/view/CMS/LPCDM">Twiki</a> (restricted).</p>
+
+  </div>
+<br>
+<img src="{{ site.url }}/images/dark_matter.jpg" alt="scribble" height="190"><img src="{{ site.url }}/images/cms_experiment.jpg" alt="scribble" height="190"><img src="{{ site.url }}/images/collisions.jpeg" alt="scribble" height="190">
+

@@ -8,12 +8,26 @@ google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
 share:            false # Turn on twitter and facebook share buttons
 
 links:
-  - name:         Posts
+  - name:         Overview
+    url:          /overview
+    external:     false
+  - name:         On going Projects
+    url:          /projects
+    external:     false
+  - name:         Software
     url:          /
     external:     false
-  - name:         About me
-    url:          /about
+  - name:         Meetings
+    url:          /
     external:     false
+  - name:         Communication
+    url:          /
+    external:     false
+  - name:         Members
+    url:          /
+    external:     false
+
+    
 # ------------ CONFIGURABLE END ------------
 
 permalink:        /posts/:title

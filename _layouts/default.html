@@ -10,11 +10,10 @@
   <body class="lh-copy dark-gray pa0 f6 sans-serif bg-super-white">
     <header class="tc mt4">
       <a href="{{ site.url }}">
-        <img src="{{ site.url }}/images/lpcdm_logo.png" alt="Home" width="53">
+        <img src="{{ site.url }}/images/lpcdm_logo.png" alt="Home" width="90">
       </a>
-      <p>{{ site.title }}</p>
     </header>
-    <div class="mw7 bg-white mt4 mb3 center br2-ns bt bb ba-ns b--light-gray">
+    <div class="mw8 bg-white mt4 mb3 center br2-ns bt bb ba-ns b--light-gray">
       <nav class="bb b--light-gray pv4 tc" aria-label="Main">
         {% for link in site.links %}
           <a class="link blue hover-mid-gray mh2 pv1"
@@ -28,7 +27,7 @@
         {% if page.title %}
           <div class="mb4">
             {% if page.date %}<div class="fw600 light-silver mt1">{{ page.date | date_to_string }}</div>{% endif %}
-            <h1 class="ttu f3 mt0 lh-title cb mb2">
+            <h1 class="f3 mt0 lh-title cb mb2">
               {% if is_post %}
               {% endif %}
               {{ page.title }}
@@ -49,7 +48,7 @@
     </div>
     <footer class="mw7 center tc pt3 pb4 silver">
       Built with Jekyll using <a href="http://github.com/muan/scribble" class="link silver hover-blue pv1">Scribble</a>.<br><br>
-      <img src="{{ site.url }}/images/cms.png" alt="scribble" width="25">&nbsp<img src="{{ site.url }}/images/coffee.png" alt="scribble" width="25"/>
+      <img src="{{ site.url }}/images/cern.png" alt="scribble" width="25">&nbsp<img src="{{ site.url }}/images/cms.png" alt="scribble" width="25">&nbsp<img src="{{ site.url }}/images/coffee.png" alt="scribble" width="25"/>&nbsp<img src="{{ site.url }}/images/fnal.png" alt="scribble" width="25"/>
     </footer>
   </body>
 </html>
