@@ -1,6 +1,6 @@
 # ----------- CONFIGURABLE START -----------
 title:            "LPC-DM Analysis Group"
-description:      "Such theme, very cool."
+description:      "Lasciate ogni speranza, voi ch'entrate."
 url:              "https://lpc-dm.github.io" # Site url, without a slash at the end.
 signoff:          "mcremone" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
