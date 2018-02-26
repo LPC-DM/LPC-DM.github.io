@@ -1,0 +1,13 @@
+---
+title: Meetings
+---
+<ul>
+<li><a href="https://cms-lpcdm.slack.com"><strong>https://cms-lpcdm.slack.com</strong> <img src="{{ site.url }}/images/slack.png" alt="scribble" height="20"></a></li>
+<p>Slack server</p>
+<li><a href="https://e-groups.cern.ch/e-groups/Egroup.do?egroupId=10280868&AI_USERNAME=MCREMONE&searchField=0&searchMethod=0&searchValue=&pageSize=30&hideSearchFields=false&searchMemberOnly=false&searchAdminOnly=false&AI_SESSION=5zzPiWpw0iTsCWNmrG5ITRBEXpB08Pema_baFm5Zrc5VALliQRRf!1290240691!1519605345569"><strong>cms-lpcdm@cern.ch</strong></a></li>
+<p>Mailing list for group discussions.</p>
+<li><a href="https://e-groups.cern.ch/e-groups/Egroup.do?egroupId=10280869&AI_USERNAME=MCREMONE&searchField=0&searchMethod=0&searchValue=&pageSize=30&hideSearchFields=false&searchMemberOnly=false&searchAdminOnly=false&AI_SESSION=5zzPiWpw0iTsCWNmrG5ITRBEXpB08Pema_baFm5Zrc5VALliQRRf!1290240691!1519605345569"><strong>cms-lpcdm-contributors@cern.ch</strong></a></li>
+<p>Mailing list for technical discussions.</p>
+<li>Vidyo room: FNAL-DM, Extension: 10653073, <a href=""><strong>Join Now!</strong> <img src="{{ site.url }}/images/vidyo.png" alt="scribble" height="20"></a></li>
+<p>Vidyo conference room</p>
+</ul>
