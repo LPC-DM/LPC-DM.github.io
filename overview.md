@@ -1,7 +1,7 @@
 ---
 title: Overview & Projects 
 ---
-<p>The LPC-DM group is based at the Fermilab <a href="http://lpc.fnal.gov/"> LHC Physics Center</a>. Most of its member are current or previous LPC Fellows, funded through one of the multiple LPC programs (LPC Distingushed Researcher, LPC Graduate Scholars, LPC Guest & Visitor)</p>
+<p>The LPC-DM group is based at the Fermilab <a href="http://lpc.fnal.gov/"> LHC Physics Center</a>. Most of its members are current or previous LPC Fellows, funded through one of the multiple LPC programs (LPC Distingushed Researcher, LPC Graduate Scholars, LPC Guest & Visitor)</p>
 
 The group is currently focusing on two different sub-group activities:
 <ul>
