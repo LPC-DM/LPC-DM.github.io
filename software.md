@@ -8,4 +8,6 @@ title: Software
 <p>Apache-Spark-based analysis framework consisting in an ntuplizer that relies on the offcial CMS software to generate custom-made NanoAOD, and an analyzer built with modern Big Data tools. Currently under development.</p>
 <li><a href="https://github.com/orgs/LPC-DM/teams/simulation/repositories"><strong>Simulation</strong> <img src="{{ site.url }}/images/github.png" alt="scribble" height="20"></a></li>
 <p>Software packages for private signal model generation.</p>
+<li><a href="https://github.com/orgs/LPC-DM/teams/fit/repositories"><strong>Fit</strong> <img src="{{ site.url }}/images/github.png" alt="scribble" height="20"></a></li>
+<p>Fitting packages for various analyses.</p>
 </ul>
